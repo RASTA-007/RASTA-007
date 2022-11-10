@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RASTA-007
-- 👀 I am interested in programming and Linux OS.
+- 👀 I am interested in coding and Linux OS.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
